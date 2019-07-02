@@ -1,0 +1,10 @@
+setup.py
+rad_distributions/Binomialdistribution.py
+rad_distributions/Gaussiandistribution.py
+rad_distributions/Generaldistribution.py
+rad_distributions/__init__.py
+rad_distributions.egg-info/PKG-INFO
+rad_distributions.egg-info/SOURCES.txt
+rad_distributions.egg-info/dependency_links.txt
+rad_distributions.egg-info/not-zip-safe
+rad_distributions.egg-info/top_level.txt
